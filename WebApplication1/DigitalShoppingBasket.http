@@ -1,0 +1,6 @@
+@DigitalShoppingBasket_HostAddress = http://localhost:5240
+
+GET {{DigitalShoppingBasket_HostAddress}}/Rewards/
+Accept: application/json
+
+###

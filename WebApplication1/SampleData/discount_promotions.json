@@ -1,0 +1,24 @@
+{
+  "Promotions": [
+    {
+      "Id": "DP001",
+      "Name": "Fuel Discount Promo",
+      "StartDate": "2020-01-01",
+      "EndDate": "2020-02-15",
+      "DiscountPercent": 20
+    },
+    {
+      "Id": "DP002",
+      "Name": "Happy Promo",
+      "StartDate": "2020-03-02",
+      "EndDate": "2020-03-20",
+      "DiscountPercent": 15
+    }
+  ],
+  "DiscountedProducts": [
+    {
+      "DiscountPromotionId": "DP001",
+      "ProductId": "PRD02"
+    }
+  ]
+}

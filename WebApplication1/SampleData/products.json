@@ -1,0 +1,50 @@
+[
+  {
+    "ProductId": "PRD01",
+    "ProductName": "Vortex 95",
+    "Category": "Fuel",
+    "UnitPrice": 1.2
+  },
+  {
+    "ProductId": "PRD02",
+    "ProductName": "Vortex 98",
+    "Category": "Fuel",
+    "UnitPrice": 1.3
+  },
+  {
+    "ProductId": "PRD03",
+    "ProductName": "Diesel",
+    "Category": "Fuel",
+    "UnitPrice": 1.1
+  },
+  {
+    "ProductId": "PRD04",
+    "ProductName": "Twix 55g",
+    "Category": "Shop",
+    "UnitPrice": 2.3
+  },
+  {
+    "ProductId": "PRD05",
+    "ProductName": "Mars 72g",
+    "Category": "Shop",
+    "UnitPrice": 5.1
+  },
+  {
+    "ProductId": "PRD06",
+    "ProductName": "SNICKERS 72G",
+    "Category": "Shop",
+    "UnitPrice": 3.4
+  },
+  {
+    "ProductId": "PRD07",
+    "ProductName": "Bounty 3 63g",
+    "Category": "Shop",
+    "UnitPrice": 6.9
+  },
+  {
+    "ProductId": "PRD08",
+    "ProductName": "Snickers 50g",
+    "Category": "Shop",
+    "UnitPrice": 4.0
+  }
+]

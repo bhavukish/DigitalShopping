@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "PP001",
+    "Name": "New Year Promo",
+    "StartDate": "2020-01-01",
+    "EndDate": "2020-01-30",
+    "Category": "Any",
+    "Points": 2.0
+  },
+  {
+    "Id": "PP002",
+    "Name": "Fuel Promo",
+    "StartDate": "2020-02-05",
+    "EndDate": "2020-02-15",
+    "Category": "Fuel",
+    "Points": 3.0
+  },
+  {
+    "Id": "PP003",
+    "Name": "Shop Promo",
+    "StartDate": "2020-03-01",
+    "EndDate": "2020-03-20",
+    "Category": "Shop",
+    "Points": 4.0
+  }
+]
